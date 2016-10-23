@@ -1,0 +1,25 @@
+{
+  "name": "gulp-thisful-construct",
+  "version": "1.0.0",
+  "description": "automatically add construct params to attribute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dingweizhe/gulp-thisful-construct"
+  },
+  "keywords": [
+    "gulp",
+    "construct",
+    "this",
+    "attribute"
+  ],
+  "author": "d.weizhe",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
